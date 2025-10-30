@@ -1,0 +1,128 @@
+name,playable,evo_name,aoe_bool,aoe_radius,death_damage_bool,attack_class,fly_bool,spawn_bool,can_evolve,target,secondary_target
+Knight,True,Evo Knight,False,NA,False,Melee,False,False,True,"['ground','building']",NA
+Archers,True,Evo Archers,False,NA,False,Ranged,False,False,True,"['any']",NA
+Goblins,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Giant,True,NA,False,NA,False,Melee,False,False,False,"['building']",NA
+P.E.K.K.A,True,Evo P.E.K.K.A,False,NA,False,Melee,False,False,True,"['ground','building']",NA
+Minions,True,NA,False,NA,False,Ranged,True,False,False,"['any']",NA
+Balloon,True,NA,False,NA,True,Melee,True,False,False,"['building']",NA
+Witch,True,Evo Witch,True,1.5,False,Ranged,False,True,True,"['any']",NA
+Barbarians,True,Evo Barbarians,False,NA,False,Melee,False,False,True,"['ground','building']",NA
+Golem,True,NA,False,NA,True,Melee,False,True,False,"['building']",NA
+Skeletons,True,Evo Skeletons,False,NA,False,Melee,False,False,True,"['ground','building']",NA
+Valkyrie,True,Evo Valkyrie,True,2,False,Melee,False,False,True,"['ground','building']",NA
+Skeleton Army,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Bomber,True,Evo Bomber,True,1.5,False,Ranged,False,False,True,"['ground','building']",NA
+Musketeer,True,Evo Musketeer,False,NA,False,Ranged,False,False,True,"['any']",NA
+Baby Dragon,True,NA,True,1.2,False,Ranged,True,False,False,"['any']",NA
+Prince,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Wizard,True,Evo Wizard,True,1.5,False,Ranged,False,False,True,"['any']",NA
+Mini P.E.K.K.A,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Spear Goblins,True,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Giant Skeleton,True,NA,False,NA,True,Melee,False,False,False,"['ground','building']",NA
+Hog Rider,True,NA,False,NA,False,Melee,False,False,False,"['building']",NA
+Minion Horde,True,NA,False,NA,False,Ranged,True,False,False,"['any']",NA
+Ice Wizard,True,NA,True,1,False,Ranged,False,True,False,"['any']",NA
+Royal Giant,True,Evo Royal Giant,False,NA,False,Ranged,False,False,True,"['building']",NA
+Guards,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Princess,True,NA,True,2,False,Ranged,False,False,False,"['any']",NA
+Dark Prince,True,NA,True,1.1,False,Melee,False,False,False,"['ground','building']",NA
+Three Musketeers,True,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Lava Hound,True,NA,False,NA,False,Ranged,True,True,False,"['building']",NA
+Ice Spirit,True,Evo Ice Spirit,True,1.5,False,Ranged,False,False,True,"['any']",NA
+Fire Spirit,True,NA,True,2.3,False,Ranged,False,False,False,"['any']",NA
+Miner,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Sparky,True,NA,True,1.8,False,Ranged,False,False,False,"['ground','building']",NA
+Bowler,True,NA,True,NA,False,Ranged,False,False,False,"['ground','building']",NA
+Lumberjack,True,Evo Lumberjack,False,NA,True,Melee,False,True,True,"['ground','building']",NA
+Battle Ram,True,Evo Battle Ram,False,NA,False,Melee,False,True,True,"['building']",NA
+Inferno Dragon,True,Evo Inferno Dragon,False,NA,False,Ranged,True,False,True,"['any']",NA
+Ice Golem,True,NA,False,NA,True,Melee,False,False,False,"['building']",NA
+Mega Minion,True,NA,False,NA,False,Ranged,True,False,False,"['any']",NA
+Dart Goblin,True,Evo Dart Goblin,False,NA,False,Ranged,False,False,True,"['any']",NA
+Goblin Gang,True,NA,False,NA,False,Melee and Ranged,False,True,False,"['ground','building']","['any']"
+Electro Wizard,True,NA,False,NA,False,Ranged,False,True,False,"['any']","['any']"
+Elite Barbarians,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Hunter,True,Evo Hunter,True,0.3,False,Ranged,False,False,True,"['any']",NA
+Executioner,True,Evo Executioner,True,1,False,Ranged,False,False,True,"['any']",NA
+Bandit,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Royal Recruits,True,Evo Royal Recruits,False,NA,False,Melee,False,False,True,"['ground','building']",NA
+Night Witch,True,NA,False,NA,False,Melee,False,True,False,"['ground','building']",NA
+Bats,True,Evo Bats,False,NA,False,Melee,True,False,True,"['any']",NA
+Royal Ghost,True,NA,True,1,False,Melee,False,False,False,"['ground','building']",NA
+Ram Rider,True,NA,False,NA,False,Melee and Ranged,False,False,False,"['building']","['air_troops','ground_troops']"
+Zappies,True,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Rascals,True,NA,False,NA,False,Melee and Ranged,False,True,False,"['ground', 'building']","['any']"
+Cannon Cart,True,NA,False,NA,False,Ranged,False,False,False,"['ground','building']","['ground_troops','building']"
+Cannon Cart (broken),False,NA,False,NA,False,Ranged,False,False,False,"['ground','building']",NA
+Mega Knight,True,Evo Mega Knight,True,1.3,False,Melee,False,False,True,"['ground','building']",NA
+Skeleton Barrel,True,Evo Skeleton Barrel,True,2,True,Melee,True,True,True,"['building']",NA
+Flying Machine,True,NA,False,NA,False,Ranged,True,False,False,"['any']",NA
+Wall Breakers,True,Evo Wall Breakers,True,1.5,False,Melee,False,False,True,"['building']",NA
+Royal Hogs,True,NA,False,NA,False,Melee,False,False,False,"['building']",NA
+Goblin Giant,True,Evo Goblin Giant,False,NA,False,Melee and Ranged,False,True,True,"['building']","['air_troops','ground_troops']"
+Fisherman,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Magic Archer,True,NA,True,0.25,False,Ranged,False,False,False,"['any']",NA
+Electro Dragon,True,Evo Electro Dragon,False,NA,False,Ranged,True,False,True,"['any']",NA
+Firecracker,True,Evo Firecracker,True,0.4,False,Ranged,False,False,True,"['any']",NA
+Mighty Miner,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Elixir Golem,True,NA,False,NA,False,Melee,False,True,False,"['building']",NA
+Battle Healer,True,NA,True,4,False,Melee,False,False,False,"['ground','building']",NA
+Skeleton King,True,NA,True,1.3,False,Melee,False,True,False,"['ground','building']",NA
+Archer Queen,True,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Golden Knight,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Monk,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Skeleton Dragons,True,NA,True,1,False,Ranged,True,False,False,"['any']",NA
+Mother Witch,True,NA,False,NA,False,Ranged,False,True,False,"['any']",NA
+Electro Spirit,True,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Electro Giant,True,NA,True,3,False,Melee,False,False,False,"['building']",NA
+Phoenix,True,NA,False,NA,True,Melee,True,True,False,"['any']",NA
+Little Prince,True,NA,False,NA,False,Ranged,False,True,False,"['any']",NA
+Goblin Demolisher,True,NA,True,1,True,Melee and Ranged,False,False,False,"['ground','building']","['building']"
+Goblin Machine,True,NA,True,1.5,False,Melee and Ranged,False,False,False,"['ground','building']","['ground_troops','building']"
+Suspicious Bush,True,NA,False,NA,False,Melee,False,False,False,"['building']",NA
+Goblinstein,True,NA,False,NA,False,Melee and Ranged,False,False,False,"['any']","['building']"
+Rune Giant,True,NA,False,NA,False,Melee,False,False,False,"['building']",NA
+Berserker,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Boss Bandit,True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Cannon,True,Evo Cannon,False,NA,False,Ranged,False,False,True,"['ground','building']",NA
+Goblin Hut,True,NA,False,NA,False,Ranged,False,True,False,NA,NA
+Mortar,True,Evo Mortar,True,2,False,Ranged,False,False,True,"['ground','building']",NA
+Inferno Tower,True,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Bomb Tower,True,NA,True,1.5,True,Ranged,False,False,False,"['ground','building']",NA
+Barbarian Hut,True,NA,False,NA,False,NA,False,True,False,NA,NA
+Tesla,True,Evo Tesla,False,NA,False,Ranged,False,False,True,"['any']",NA
+Elixir Collector,True,NA,False,NA,False,NA,False,False,False,NA,NA
+X-Bow,True,NA,False,NA,False,Ranged,False,False,False,"['ground','building']",NA
+Tombstone,True,NA,False,NA,False,NA,False,True,False,NA,NA
+Furnace,True,Evo Furnace,False,NA,False,Ranged,False,True,True,"['any']",NA
+Goblin Cage,True,Evo Goblin Cage,False,NA,False,NA,False,True,True,NA,NA
+Goblin Drill,True,Evo Goblin Drill,False,NA,False,NA,False,True,True,NA,NA
+Fireball,True,NA,True,2.5,NA,NA,NA,False,False,NA,NA
+Arrows,True,NA,True,3.5,NA,NA,NA,False,False,NA,NA
+Rage,True,NA,True,3,NA,NA,NA,False,False,NA,NA
+Rocket,True,NA,True,2,NA,NA,NA,False,False,NA,NA
+Goblin Barrel,True,Evo Goblin Barrel,True,1.5,NA,NA,NA,True,True,NA,NA
+Freeze,True,NA,True,3,NA,NA,NA,False,False,NA,NA
+Mirror,True,NA,NA,NA,NA,NA,NA,NA,False,NA,NA
+Lightning,True,NA,True,3.5,NA,NA,NA,False,False,NA,NA
+Zap,True,Evo Zap,True,2.5,NA,NA,NA,False,True,NA,NA
+Poison,True,NA,True,3.5,NA,NA,NA,False,False,NA,NA
+Graveyard,True,NA,True,4,NA,NA,NA,True,False,NA,NA
+The Log,True,NA,True,NA,NA,NA,NA,False,False,NA,NA
+Tornado,True,NA,True,5.5,NA,NA,NA,False,False,NA,NA
+Clone,True,NA,True,3,NA,NA,NA,True,False,NA,NA
+Earthquake,True,NA,True,3.5,NA,NA,NA,False,False,NA,NA
+Barbarian Barrel,True,NA,True,NA,NA,NA,NA,True,False,NA,NA
+Heal Spirit,True,NA,True,2.5,False,Ranged,False,False,False,"['any']",NA
+Giant Snowball,True,Evo Giant Snowball,True,2.5,NA,NA,NA,False,True,NA,NA
+Royal Delivery,True,NA,True,3,NA,NA,NA,True,False,NA,NA
+Void,True,NA,True,2.5,NA,NA,NA,False,False,NA,NA
+Vines,True,NA,True,2.5,NA,NA,NA,False,False,NA,NA
+Goblin Curse,True,NA,True,3,NA,NA,NA,True,False,NA,NA
+Spirit Empress (Melee),True,NA,False,NA,False,Melee,False,False,False,"['ground','building']",NA
+Spirit Empress (Ranged),True,NA,False,NA,False,Ranged,True,False,False,"['any']",NA
+Tower Princess,False,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Cannoneer,False,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Dagger Duchess,False,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
+Royal Chef,False,NA,False,NA,False,Ranged,False,False,False,"['any']",NA
